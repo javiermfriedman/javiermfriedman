@@ -3,7 +3,7 @@
 My namie is Javi, and I'm a Tufts-trained computer scientist with a passion for data science and full-stack software development—especially mobile applications.
 
 - 🔬 Currently collaborating on DARE-DQ, a research project in offline reinforcement learning. We're developing a novel metric that scores trajectories based on both cumulative reward and empirical state density to promote effective and well-supported policies.
-  -  🤝 Open to project collaborations—reach out at javiermfriedman@gmail.com
+-  🤝 Open to project collaborations—reach out at javiermfriedman@gmail.com
 <!--
 **javiermfriedman/javiermfriedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
