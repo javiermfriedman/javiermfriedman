@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My namie is Javi, and I'm a Tufts-trained computer scientist with a passion for data science and AI.
+My namie is Javi, and I'm a Tufts-trained computer scientist with a passion for AI.
 -  🤝 Open to project collaborations—reach out at javiermfriedman@gmail.com
 <!--
 **javiermfriedman/javiermfriedman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
